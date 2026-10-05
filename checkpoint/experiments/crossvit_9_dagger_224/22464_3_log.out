@@ -1,0 +1,2 @@
+submitit INFO (2025-08-15 11:36:41,443) - Starting with JobEnvironment(job_id=22464, hostname=我的神机, local_rank=3(8), node=0(1), global_rank=3(8))
+submitit INFO (2025-08-15 11:36:41,443) - Loading pickle: D:\studytrain\CrossViT-main\checkpoint\experiments\crossvit_9_dagger_224\22464_submitted.pkl
